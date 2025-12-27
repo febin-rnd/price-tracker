@@ -1,0 +1,7 @@
+{
+  "name": "PriceSentinel",
+  "description": "An intelligent e-commerce price monitor that tracks deals, visualizes price history using Gemini AI for real-time data extraction, and alerts you when target prices are met.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
